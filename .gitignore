@@ -21,3 +21,10 @@ dev/
 
 # Results file
 results.tsv
+lab_journal.jsonl
+run.log
+baseline.log
+.sisyphus/
+session-*.md
+.serena/
+.DS_Store
